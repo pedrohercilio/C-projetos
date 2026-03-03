@@ -1,0 +1,15 @@
+compilar -> gcc main.c -o main
+executar -> ./main.exe
+
+
+git add main.c  ->  adiciona o arquivo às alterações do git
+git commit -m "Água verde"  ->  mensagem junto à linha do tempo
+git branch -M leigo333  ->  renomeia o universo para leigo333
+git remote add origin https://github.com/pedrohercilio/leigo-333.git  ->  informando ao git aonde o repositório ficará
+git push -uorigin leigo333  ->  subindo o código ao github
+
+
+alteração
+git add main.c
+git commit -m "Água azul"
+git push
